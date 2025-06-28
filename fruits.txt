@@ -1,6 +1,6 @@
-apples
+apples, apricots
 bananas
+blueberries
 cherries
 dragon fruits
-elderberries
 figs
